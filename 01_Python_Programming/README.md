@@ -313,8 +313,6 @@ This section covers interview questions from the first four weeks of Python prog
 
 ## Learning Objectives
 
-By completing these topics, learners should be able to:
-
 - Understand Python fundamentals and core data structures.
 - Write reusable functions and solve programming problems.
 - Apply object-oriented programming concepts.
