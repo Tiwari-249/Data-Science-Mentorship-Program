@@ -4,7 +4,7 @@
 
 This week covers MultiIndex Series and DataFrames, reshaping data, vectorized string operations, datetime operations, pivot tables, and practical Pandas case studies involving time-series analysis and textual data.
 
-### Session 21: MultiIndex Series and DataFrames
+### 01. Session 21: MultiIndex Series and DataFrames
 
 - About MultiIndex Objects
 - Why to Use MultiIndex Objects
@@ -15,7 +15,7 @@ This week covers MultiIndex Series and DataFrames, reshaping data, vectorized st
 - Long vs Wide Data
 - Pandas `melt()`
 
-### Session 22: Vectorized String Operations and Datetime in Pandas
+### 02. Session 22: Vectorized String Operations and Datetime in Pandas
 
 - Pivot Table
 - Aggregation Functions (`agg()`)
