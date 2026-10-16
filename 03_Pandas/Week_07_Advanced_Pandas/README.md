@@ -11,7 +11,7 @@ This week covers advanced Pandas operations, including GroupBy, merging, joining
 - GroupBy Attributes and Methods
 - Hands-on Practice on the IPL Dataset
 
-### Session on Session 20: Merging, Joining, and Concatenating
+### Session 20: Merging, Joining, and Concatenating
 
 - Pandas `concat()` Method
 - Pandas `merge()` Method
