@@ -4,23 +4,21 @@
 
 This week covers advanced Pandas operations, including GroupBy, merging, joining, and concatenation. It also introduces Streamlit dashboard development, an Indian Startup Funding case study, and Git and GitHub version control.
 
-## Sessions
-
-### 01. Session 19: GroupBy Object
+### Session 19: GroupBy Object
 
 - What Is GroupBy?
 - Applying Built-in Aggregation Functions on GroupBy Objects
 - GroupBy Attributes and Methods
 - Hands-on Practice on the IPL Dataset
 
-### 02. Session 20: Merging, Joining, and Concatenating
+### Session on Session 20: Merging, Joining, and Concatenating
 
 - Pandas `concat()` Method
 - Pandas `merge()` Method
 - Pandas `join()` Method
 - Practical Implementations
 
-### 03. Streamlit
+### 03. Session on Streamlit
 
 - Introduction to Streamlit
 - Features of Streamlit
@@ -28,12 +26,12 @@ This week covers advanced Pandas operations, including GroupBy, merging, joining
 - Flask vs Streamlit
 - Mini-Project: Indian Startup Funding Dataset Using Streamlit — Part 1
 
-### 04. Pandas Case Study: Indian Startup Funding
+### 04. Session on Pandas Case Study: Indian Startup Funding
 
 - Data Analysis on the Indian Startup Funding Dataset
 - Displaying Analysis Results on a Streamlit Dashboard — Part 2
 
-### 05. Git Fundamentals
+### 05. Session on Git Fundamentals
 
 - What Is Git?
 - What Is VCS/SCM?
@@ -51,7 +49,7 @@ This week covers advanced Pandas operations, including GroupBy, merging, joining
 - Viewing Commits Using `git log --oneline`
 - Creating Versions of Software
 
-### 06. Git and GitHub
+### 06. Session on Git and GitHub
 
 - Nonlinear Development (Branching)
 - Merging Branches
@@ -69,15 +67,3 @@ This week covers advanced Pandas operations, including GroupBy, merging, joining
 - Understand Git and version control systems.
 - Create repositories, stage changes, commit versions, and inspect commit history.
 - Work with branches, merge changes, undo modifications, and manage remote repositories using Git and GitHub.
-
-## Projects
-
-### 1. IPL Dataset Analysis
-- Apply GroupBy operations.
-- Perform built-in aggregations.
-- Explore GroupBy attributes and methods.
-
-### 2. Indian Startup Funding Dashboard
-- Analyze the Indian Startup Funding dataset.
-- Build a dashboard using Streamlit.
-- Display data analysis results interactively.
