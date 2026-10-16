@@ -4,14 +4,14 @@
 
 This week covers advanced Pandas operations, including GroupBy, merging, joining, and concatenation. It also introduces Streamlit dashboard development, an Indian Startup Funding case study, and Git and GitHub version control.
 
-### Session 19: GroupBy Object
+### 01. Session 19: GroupBy Object
 
 - What Is GroupBy?
 - Applying Built-in Aggregation Functions on GroupBy Objects
 - GroupBy Attributes and Methods
 - Hands-on Practice on the IPL Dataset
 
-### Session 20: Merging, Joining, and Concatenating
+### 02. Session 20: Merging, Joining, and Concatenating
 
 - Pandas `concat()` Method
 - Pandas `merge()` Method
